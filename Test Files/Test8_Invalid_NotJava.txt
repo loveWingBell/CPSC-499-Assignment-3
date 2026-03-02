@@ -1,0 +1,5 @@
+This is not Java code at all.
+It's just plain text that should fail to parse.
+{ random braces [ and brackets ] }
+def foo():
+    print("this is python")
